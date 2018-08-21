@@ -5,7 +5,7 @@ return [
         'active' => true,
     ],
     'internal' => [
-        'active' => false,
+        'active' => true,
     ],
     'fields' => [
         'image' => [
