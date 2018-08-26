@@ -1,5 +1,5 @@
 {
-  "name": "refineddigital/cms-page-promos",
+  "name": "refineddigital/refined-cms-page-promos",
   "description": "Adds multiple promos option to Pages Module",
   "require": {
     "php": "^7.1.3",
