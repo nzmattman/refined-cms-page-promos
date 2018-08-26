@@ -5,7 +5,7 @@ namespace RefinedDigital\PagePromos\Module\Providers;
 use Illuminate\Support\ServiceProvider;
 use RefinedDigital\CMS\Modules\Core\Models\PageAggregate;
 
-class PagePromoserviceProvider extends ServiceProvider
+class PagePromoServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
