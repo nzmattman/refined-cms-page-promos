@@ -1,5 +1,5 @@
 {
-  "name": "@refineddigital/page-promos",
+  "name": "@refineddigital/cms-page-promos",
   "version": "1.1.1",
   "scripts": {
     "publish-and-tag": "git push --tags && git push origin master",
