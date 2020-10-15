@@ -20,7 +20,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "RefinedDigital\\PagePromos\\Module\\Providers\\PagePromoServiceProvider"
+        "RefinedDigital\\PagePromos\\Module\\Providers\\PagePromosServiceProvider"
       ],
       "aliases": {
       }
